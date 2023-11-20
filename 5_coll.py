@@ -76,6 +76,6 @@ slice_1 = lst_5[::2]
 slice_1 = lst_5[-5:-2]
 
 # срез с отрицательным шагом
-slice_1 = lst_5[::-4]
+slice_1 = lst_5[9:3:-3]
 
 print(slice_1)
